@@ -9,3 +9,8 @@ body{
 #menu-principal{
 	padding: 10px 0px;
 }
+h1.titulo{
+	background-color: aliceblue;
+	text-align: center;
+	padding: 10px;
+}
